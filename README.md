@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @jnaneswar
-- 👀 I’m interested in Machine Learning
+- 👋 Hi, I’m @Jnaneswar Rao
+- 👀 I’m interested in AI and ML
 - 🌱 I’m currently Studying b.tech cse in Lovely Professional University
-- 💞️ I’m looking for Machine Learning Internship.
+- And currently enrolled in the 1-year Data Science Program - Ineuron
 
